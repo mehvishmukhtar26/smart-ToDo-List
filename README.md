@@ -3,8 +3,6 @@ Smart To-Do List Application
 screenshots of aplicaton:
 interface of page: add, delete,undo,complete task 
 ![page interface](screenshots/interface.jpg.png)
-we can edit the taskname:
-![edit task-name](screenshots/edittaskname.jpg.png)
 
 About
 
