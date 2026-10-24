@@ -209,3 +209,22 @@ footer {
 .task-actions .edit-btn:hover {
     background: #6f4bb5;
 }
+.filter-buttons {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+}
+
+.filter-buttons button {
+    flex: 1;
+    min-width: 80px;
+    background: #eee7ff;
+    color: #6941a5;
+}
+
+.filter-buttons button:hover,
+.filter-buttons button.active {
+    background: #8055c8;
+    color: white;
+}
